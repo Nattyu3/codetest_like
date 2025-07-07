@@ -1,0 +1,2 @@
+Time: 0.16 sec
+Memory: 9536 Kbyte
